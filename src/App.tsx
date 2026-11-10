@@ -10,7 +10,7 @@ import {
 } from "./utils";
 
 import type { Domino, SortOrder } from "./utils";
-import "./app.css";
+import "./App.css";
 
 const DEFAULT_DOMINOES: Domino[] = [
   [1, 2],
